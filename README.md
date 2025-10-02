@@ -27,5 +27,7 @@ Você pode ver o projeto funcionando online no link abaixo:
 
 ## 📸 Imagem do Projeto
 https://github.com/stefany-santana/painel-de-gest-o/blob/main/Captura%20de%20tela%202025-10-02%20144826.png?raw=true
+https://github.com/stefany-santana/painel-de-gest-o/blob/main/Captura%20de%20tela%202025-10-02%20161901.png?raw=true
+
 
 
